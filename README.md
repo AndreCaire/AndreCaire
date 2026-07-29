@@ -1,16 +1,28 @@
-## Hi there 👋
+# André Caire
 
-<!--
-**AndreCaire/AndreCaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Physicist | M.Sc. candidate in Asymptotically Safe Quantum Gravity | Scientific computing and data analysis**
 
-Here are some ideas to get you started:
+I am a physicist and M.Sc. candidate at São Paulo State University (UNESP), where I research asymptotically safe quantum gravity. My background includes gravitational-wave astrophysics, numerical modelling, Bayesian inference, and scientific data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have also conducted research at the University of Birmingham involving pulsar timing arrays, stochastic gravitational-wave backgrounds, and supermassive black hole population models.
+
+My work focuses on using Python to translate mathematical and physical problems into computational models and reproducible analyses.
+
+## Research and technical interests
+
+## Research and technical interests
+
+- Quantum gravity and asymptotic safety
+- Scientific computing and numerical methods
+- Bayesian inference and statistical modelling
+- Gravitational-wave astrophysics
+- Data science and machine learning
+- Quantitative research
+
+## Technologies
+
+`Python` · `NumPy` · `SciPy` · `Matplotlib` · `Jupyter` · `Linux` · `Git`
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/andré-caire-84b731380) · [Email](mailto:andre.caire@unesp.br)
