@@ -10,8 +10,6 @@ My work focuses on using Python to translate mathematical and physical problems 
 
 ## Research and technical interests
 
-## Research and technical interests
-
 - Quantum gravity and asymptotic safety
 - Scientific computing and numerical methods
 - Bayesian inference and statistical modelling
